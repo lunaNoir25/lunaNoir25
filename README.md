@@ -2,44 +2,26 @@
 
 # Welcome!
 
-Name's lunaNoir - written exactly like that - but you may call me Luna for short, or Luna Moonlit Noir for long.
+Hello! I'm Luna Moonlit Noir, a Canadian Computer Nerd with a passion for a broad spectrum of technology, including Hardware, Software, IoT, and IT.
 
-I'm a Canadian computer nerd catgirl (nyaa~) focused on a wide range of stuff, such as hardware, software, IoT, IT - you name it, I'll like it!
-
-I'm also transgender male to female, so... yay...
+I have Hypoplastic Right Heart Syndrome (HRHS) and am always open to learning new skills.
 
 ---
-I know quite a bit of languages, such as
+I am proficient in several key programming languages:
  - Python
  - Java
  - C#
  - C++
  - Rust
  - Microsoft QuickBasic
-
-I'm always open to learn more!
-
----
-
-Currently, I'm working on:
- - Modular Interface for Command Operations (MICO) | C++ | Repository not public yet.
-
- - Programming 100 - Introduction to Programming | Course not available yet.
- - Programming 101 - Python | Course not available yet.
+ - Open to learn more!
 
 ---
+Current Project Focus:
 
-Things about me:
- - I have [Hypoplastic Right Heart Syndrome](https://en.wikipedia.org/wiki/Hypoplastic_right_heart_syndrome).
- - My favourite colour is purple.
- - I know Canadian English and French.
- - TORADORA! is my favourite anime!
- - My first programming language was Python.
+ - Modular Interface for Command Operations (MICO) (C++) (Repo not available yet)
 
-Some hobbies:
- - Programming
- - Not sleeping
- - Gaming
- - Anime
- - Learning
- - STEM
+---
+Languages:
+
+ - Canadian English and French
