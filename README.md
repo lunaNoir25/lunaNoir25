@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-03/12/2025-555)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-12/12/2025-555)
 
 # Welcome!
 
@@ -20,8 +20,11 @@ I am proficient in several key programming languages:
 Current Project Focus:
 
  - Modular Interface for Command Operations (MICO) (C++) (Repo not available yet)
-
+ - ![Fillet](https://github.com/lunaNoir25/fillet) (Rust)
+   
 ---
 Languages:
 
  - Canadian English and French
+ - Yes, Canada has their own variant of English, America isn't the only country who speaks English. Keep this in mind when adding
+   translations to your software. If I don't see Canadian English or British English, I consider it not widely available.
