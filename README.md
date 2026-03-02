@@ -1,4 +1,4 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-02/02/2026-555)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-01/03/2026-555)
 
 # Welcome!
 
@@ -21,9 +21,7 @@ I am proficient in several key programming languages:
 ---
 Current Project Focus:
 
- - [Lumie](https://github.com/lunaNoir25/Lumie) (C)
- - Modular Interface for Command Operations (MICO) (C++) (Repo not available yet)
- - Terminal Portal (C) (Repo not available yet)
+ - [Nothing to show here.]
    
 ---
 Languages:
