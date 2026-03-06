@@ -1,12 +1,7 @@
-![Last Updated](https://img.shields.io/badge/Last%20Updated-04/03/2026-555)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-05/03/2026-555)
 
-> [!WARNING]
-> **I am in the process of switching to CodeBerg.**
-> New repositories will be created on CodeBerg.
-> Active repositories will be migrated to CodeBerg.
-> Archived or "dead" repositories will not be migrated.
->
-> This file may not be updated in the future.
+> [!INFO]
+> I have decided not to migrate to Codeberg due to reasons I will not list here.
 
 # Welcome!
 
@@ -29,7 +24,7 @@ I am proficient in several key programming languages:
 ---
 Current Project Focus:
 
- - [Nothing to show here.]
+ - [Luna](https://www.github.com/lunaNoir25/Luna) (OS)
    
 ---
 Languages:
